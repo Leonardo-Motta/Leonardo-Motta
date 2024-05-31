@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 👀 I’m interested in Object-Oriented Programming
+- 👀 I’m interested in Object-Oriented Programming.
 - 🌱 I’m currently learning Programming Logic.
 - 💞️ I’m looking to collaborate on proyects.
 - 👋 I’m looking for help with Functional Programming.
